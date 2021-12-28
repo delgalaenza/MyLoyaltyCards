@@ -1,5 +1,5 @@
 # MyLoyaltyCards
-Android application to store and display your loyalty cards
+<i><b>Android application to store and display your loyalty cards</b></i>
 
 Opening the app you will find a list with all your loyalty cards (if you have none, you can create it with the green button on the bottom)
 
