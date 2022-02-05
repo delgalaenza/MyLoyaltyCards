@@ -4,7 +4,7 @@
 Opening the app you will find a list with all your loyalty cards (if you have none, you can create it with the green button on the bottom)
 
 
-![screen3](https://user-images.githubusercontent.com/72390465/147611263-7dabce70-35dc-460b-8266-f67231a98854.png)
+![image](https://user-images.githubusercontent.com/72390465/152638730-5026c173-dd01-42d0-9886-c17a33f848c2.png)
 
 
 In the follow page you can add and custom your new card:
