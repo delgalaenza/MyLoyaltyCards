@@ -9,9 +9,9 @@ Opening the app you will find a list with all your loyalty cards (if you have no
 
 In the follow page you can add and custom your new card:
 
-![screen1](https://user-images.githubusercontent.com/72390465/147611287-213b5d9c-e014-454a-83ad-42b20c81e9c8.png)
+![image](https://user-images.githubusercontent.com/72390465/152638774-23362fb2-07e1-40d4-8bd4-c2e373ef54e0.png)
 
 
 Then if you click the open button in the cards list, or when you have just create a new card, a final view with your card will appear on the screen.
 
-![screen2](https://user-images.githubusercontent.com/72390465/147611359-51ef2833-dda1-44b8-8f25-3c00e1c06537.png)
+![image](https://user-images.githubusercontent.com/72390465/152638796-f49cfb0d-b0be-4ead-93d3-47a89348ebbe.png)
